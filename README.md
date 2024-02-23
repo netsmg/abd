@@ -1,4 +1,4 @@
-# Modernize Reactjs Admin Template
+# Modernize Reactjs Admin Template (JS/TS)
 
 [![TechAI Demo](https://github.com/UsmanLiaqat404/modernize-react-admin-template/blob/main/demo-images/demo.png?raw=true)](https://modernize-react.adminmart.com)
 
